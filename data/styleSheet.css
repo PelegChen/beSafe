@@ -1,0 +1,9 @@
+/*css styleSheet.css*/
+#ErrorCheck{
+    font-size: 57px;
+    color: red;
+}
+@font-face {
+    font-family: Alima;
+    src: url(data/Alima.TTF);
+}
